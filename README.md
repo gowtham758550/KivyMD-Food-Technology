@@ -18,3 +18,6 @@ $ pip install kivymd
 $ python main.py
 ```
 ![](https://github.com/gowtham758550/KivyMD-Food-Technology/blob/master/Demo/2020_07_21_20_13_09.gif)
+
+
+[Download for Android](https://drive.google.com/file/d/1VD9zk3noYR3YmFiL4WztWYHOijmbwVTv/view?usp=drivesdk) 
