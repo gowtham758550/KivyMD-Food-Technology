@@ -15,7 +15,7 @@ $ pip install kivymd
 
 ## Usage
 ```
-$ python main.py
+$ python FoodTechnology.py
 ```
 ![](https://github.com/gowtham758550/KivyMD-Food-Technology/blob/master/Demo/2020_07_21_20_13_09.gif)
 
