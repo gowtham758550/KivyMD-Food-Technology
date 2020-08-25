@@ -100,10 +100,10 @@ BoxLayout:
             MDLabel:
                 halign:'center'
                 pos_hint: {"center_x": 0.5, "center_y": 0.9}
-                text: 'An android application developed using python specially for students who are interesting in Food Technology.'
+                text: 'An android application developed using python specially for students who are interested in Food Technology.'
             
             MDLabel:
-            	text: 'Developed by Gowtham S'
+            	text: 'Developed by Gowtham and Raagul'
                 pos_hint: {'center_y': .7}
                 halign:'center'
                 
